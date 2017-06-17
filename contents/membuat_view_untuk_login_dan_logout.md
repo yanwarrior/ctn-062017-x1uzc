@@ -4,6 +4,7 @@ Edit file `account/urls.py` dan buatlah menjadi seperti ini:
 
 ```python
 from django.conf.urls import url
+from django.contrib import auth
 from . import views
 
 urlpatterns = [
@@ -12,13 +13,13 @@ urlpatterns = [
     
     # login / logout urls
     url(r'^login/$',
-        'django.contrib.auth.views.login',
+        auth.views.login,
         name='login'),
     url(r'^logout/$',
-        'django.contrib.auth.views.logout',
+        auth.views.logout,
         name='logout'),
     url(r'^logout-then-login/$',
-        'django.contrib.auth.views.logout_then_login',
+        auth.views.logout_then_login,
         name='logout_then_login'),
 ]
 ```
