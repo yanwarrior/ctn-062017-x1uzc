@@ -20,10 +20,6 @@ ctn-062017-x1uzc
 
 belum ada revisi
 
-**Sample Code yang sudah Jadi**
-
-[Download]()
-
 **Daftar Catatan**
 
 1.  [Persiapan Awal](contents/persiapan_awal.md)
