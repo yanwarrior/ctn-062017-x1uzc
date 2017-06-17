@@ -12,15 +12,13 @@ Beberapa kode dan pengaturan di dalam catatan ini sedikit saya ubah untuk menyes
 
 **Kode Catatan (nama repo)**
 
-```
-ctn-062017-x1uzc
-```
+`ctn-062017-x1uzc`
 
 **Nomer Revisi**
 
 `01@15.06.2017`
 
-**Daftar Catatan**
+**Daftar QCR**
 
 1.  [Persiapan Awal](contents/persiapan_awal.md)
 2.  [Membuat View untuk Login](contents/membuat_view_untuk_login.md)
@@ -32,5 +30,6 @@ ctn-062017-x1uzc
 8.  [Menggunakan Messages Flash Django](contents/menggunakan_messages_flash_django.md)
 9.  [Mengkustom Authentication Backend Django](contents/mengkustom_authentication_backend_django.md)
 10.  [Menambahkan Social Authentication](contents/menambahkan_social_authentication.md)
+11.  [Social Authentication dengan Facebook](contents/social_authentication_dengan_facebook.md)
 
 
