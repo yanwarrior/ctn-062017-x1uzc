@@ -6,8 +6,8 @@ Buat file `account/forms.py`. Ketik kode berikut ke dalamnya:
 from django import forms
 
 class LoginForm(forms.Form):
-	username = forms.CharField()
-	password = forms.CharField(widget=forms.PasswordInput)
+    username = forms.CharField()
+    password = forms.CharField(widget=forms.PasswordInput)
 ```
 
 Edit file `account/views.py` dan tambahkan kode berikut ke dalamnya:
@@ -20,12 +20,12 @@ from .forms import LoginForm
 
 
 def user_login(request):
-	if request.method == 'POST':
-		form = LoginForm(request.POST)
+    if request.method == 'POST':
+        form = LoginForm(request.POST)
         
-		if form.is_valid():
+        if form.is_valid():
             cd = form.cleaned_data
-			user = authenticate(username=cd['username'], password=cd['password'])
+            user = authenticate(username=cd['username'], password=cd['password'])
             
             if user is not None:
                 if user.is_active:
