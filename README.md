@@ -18,7 +18,7 @@ ctn-062017-x1uzc
 
 **Nomer Revisi**
 
-belum ada revisi
+`01@15.06.2017`
 
 **Daftar Catatan**
 
