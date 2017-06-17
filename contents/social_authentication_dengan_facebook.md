@@ -37,7 +37,7 @@ Masukan `http://mysite.com:8000/` di field `Site URL` dan klik tombol `Save Chan
 
 ![](../images/25.JPG)
 
-Buka `Dashboard` dan Anda akan melihat sesuatu seperti gambar berikut ini:
+Buka `Dashboard` dan Kamu akan melihat sesuatu seperti gambar berikut ini:
 
 ![](../images/26.JPG)
 
@@ -48,7 +48,7 @@ SOCIAL_AUTH_FACEBOOK_KEY = 'XXX' # Facebook App ID
 SOCIAL_AUTH_FACEBOOK_SECRET = 'XXX' # Facebook App Secret
 ```
 
-Opsi lain, Anda bisa mendefinisikan pengaturan `SOCIAL_AUTH_FACEBOOK_SCOPE` dengan permission tambahan yang akan ditanyakan kepada user Facebook, sehingga bentuknya menjadi:
+Opsi lain, Kamu bisa mendefinisikan pengaturan `SOCIAL_AUTH_FACEBOOK_SCOPE` dengan permission tambahan yang akan ditanyakan kepada user Facebook, sehingga bentuknya menjadi:
 
 ```python
 SOCIAL_AUTH_FACEBOOK_KEY = 'XXX' # Facebook App ID
@@ -70,11 +70,11 @@ Terakhir, buka file template `account/templates/registration/login.html` dan sis
 </div>
 ```
 
-Buka `http://mysite.com:8000/account/login/` di browser Anda. Sekarang halaman login Anda terlihat seperti berikut:
+Buka `http://mysite.com:8000/account/login/` di browser Kamu. Sekarang halaman login Kamu terlihat seperti berikut:
 
 ![](../images/27.JPG)
 
-Klik tombol `Login with Facebook`. Anda akan dibawa ke Facebook dan Anda akan meilhat modal dialog seperti pada gambar di bawah ini:
+Klik tombol `Login with Facebook`. Kamu akan dibawa ke Facebook dan Kamu akan meilhat modal dialog seperti pada gambar di bawah ini:
 
 ![](../images/28.JPG)
 

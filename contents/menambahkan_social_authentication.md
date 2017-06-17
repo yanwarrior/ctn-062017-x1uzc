@@ -34,13 +34,13 @@ TEMPLATES = [
 ]
 ```
 
-Sekarang jalankan perintah berikut untuk sinkroniasi model `social-auth-app-django` dengan database Anda:
+Sekarang jalankan perintah berikut untuk sinkroniasi model `social-auth-app-django` dengan database Kamu:
 
 ```txt
 python manage.py migrate
 ```
 
-Anda harus melihat hasil migrasi untuk aplikasi default sebagai berikut:
+Kamu harus melihat hasil migrasi untuk aplikasi default sebagai berikut:
 
 ```txt
 Applying default.0001_initial... OK

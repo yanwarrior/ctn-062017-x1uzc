@@ -31,5 +31,6 @@ Beberapa kode dan pengaturan di dalam catatan ini sedikit saya ubah untuk menyes
 9.  [Mengkustom Authentication Backend Django](contents/mengkustom_authentication_backend_django.md)
 10.  [Menambahkan Social Authentication](contents/menambahkan_social_authentication.md)
 11.  [Social Authentication dengan Facebook](contents/social_authentication_dengan_facebook.md)
+12.  [Social Authentication dengan Twitter](contents/social_authentication_dengan_twitter.md)
 
 
