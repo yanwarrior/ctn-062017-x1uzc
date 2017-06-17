@@ -16,7 +16,7 @@ Beberapa kode dan pengaturan sedikit saya ubah untuk menyesuiakan environment sa
 **Kode Catatan (nama repo)**
 
 ```
-ctn_062017_
+ctn-062017-x1uzc
 ```
 
 **Nomer Revisi**
@@ -29,7 +29,7 @@ belum ada revisi
 
 **Daftar Catatan**
 
-1.  [Persiapan Awal](contents/Persiapan Awal.md)
-2.  [Membuat View untuk Login Sederhana](contents/Membuat View untuk Login Sederhana.md)
+1.  [Persiapan Awal](contents/persiapan_awal.md)
+2.  [Membuat View untuk Login](contents/membuat_view_untuk_login.md)
 
 
