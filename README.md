@@ -35,3 +35,10 @@ Beberapa kode dan pengaturan di dalam catatan ini sedikit saya ubah untuk menyes
 13.  [Social Authentication dengan Google](contents/social_authentication_dengan_google.md)
 
 
+**Apa Selanjutnya ?**
+
+Nantikan seri catatan lain dengan judul: *Membangun Situs Sosmed dengan Django Seri 2*. Seri kedua ini adalah seri lanjutan dari seri pertama. 
+
+
+
+
