@@ -30,5 +30,6 @@ ctn-062017-x1uzc
 6.  [Membuat Registrasi untuk User](contents/membuat_registrasi_untuk_user.md)
 7.  [Mengextends Model User](contents/mengextend_model_user.md)
 8.  [Menggunakan Messages Flash Django](contents/menggunakan_messages_flash_django.md)
+9.  [Mengkustom Authentication Backend Django](contents/mengkustom_authentication_backend_django.md)
 
 
