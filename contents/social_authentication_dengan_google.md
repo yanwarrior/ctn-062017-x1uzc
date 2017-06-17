@@ -42,7 +42,7 @@ Klik tombol `Configure consent screen`:
 
 ![](../images/38.JPG)
 
-Akan muncul form `OAuth consent screen` seperti pada gambar berikut. Pilih `Email addreses` sesuai email Anda saat ini. Isi `Product name shown to users` dengan `Bookmarks App` dan isi `Privacy policy URL` dengan `http://mysite.com:8000/`. Klik tombol `Save`.
+Akan muncul form `OAuth consent screen` seperti pada gambar berikut. Pilih `Email addreses` sesuai email Kamu saat ini. Isi `Product name shown to users` dengan `Bookmarks App` dan isi `Privacy policy URL` dengan `http://mysite.com:8000/`. Klik tombol `Save`.
 
 ![](../images/39.JPG)
 
@@ -50,7 +50,7 @@ Selanjutnya pilih `Application type` dengan `Web application`. Pada field `Name`
 
 ![](../images/40.JPG)
 
-Akan muncul dialog modal yang berisi `OAuth client` yang sudah Anda buat. Copy `client ID` dan `client secret`. 
+Akan muncul dialog modal yang berisi `OAuth client` yang sudah Kamu buat. Copy `client ID` dan `client secret`. 
 
 ![](../images/41.JPG)
 
@@ -87,11 +87,11 @@ Sekarang, edit file template `account/templates/registration/login.html` dan tam
 </li>
 ```
 
-Buka http://mysite.com:8000/account/login/ di browser Anda. Halaman login harus terlihat seperti:
+Buka http://mysite.com:8000/account/login/ di browser Kamu. Halaman login harus terlihat seperti:
 
 ![](../images/46.JPG)
 
-Klik tombol `Login with Google`. Anda akan di bawah ke halaman Pilih akun. Pilih akun Anda untuk melanjutkan ke `mysite.com`:
+Klik tombol `Login with Google`. Kamu akan di bawah ke halaman Pilih akun. Pilih akun Kamu untuk melanjutkan ke `mysite.com`:
 
 ![](../images/47.JPG)
 
@@ -99,6 +99,6 @@ Selanjutnya akan muncul halaman seperti berikut ini. Klik tombol `Accept`:
 
 ![](../images/48.JPG)
 
-Anda akan di bawa kembali ke halaman Dashboard pada aplikasi `bookmarks`.
+Kamu akan di bawa kembali ke halaman Dashboard pada aplikasi `bookmarks`.
 
 
