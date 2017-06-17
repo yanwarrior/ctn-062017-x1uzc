@@ -38,11 +38,11 @@ def edit(request):
     # ...
 ```
 
-Buka `http://127.0.0.1:8000/account/edit/` di browser Anda dan edit-lah profile Anda. Ketika profile berhasil di update, Anda harus melihat pesan seperti berikut ini:
+Buka `http://127.0.0.1:8000/account/edit/` di browser Kamu dan edit-lah profile Kamu. Ketika profile berhasil di update, Kamu harus melihat pesan seperti berikut ini:
 
 ![](../images/18.JPG)
 
-Ketika form tidak valid, Anda harus melihat pesan seperti gambar berikut ini:
+Ketika form tidak valid, Kamu harus melihat pesan seperti gambar berikut ini:
 
 ![](../images/19.JPG)
 
