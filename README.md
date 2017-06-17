@@ -34,5 +34,6 @@ belum ada revisi
 3.  [Membuat View untuk Login dan Logout](contents/membuat_view_untuk_login_dan_logout.md)
 4.  [Membuat View untuk Mengubah Password](contents/membuat_view_untuk_mengubah_password.md)
 5.  [Membuat View untuk Mereset Password](contents/membuat_view_untuk_mereset_password.md)
+6.  [Membuat Registrasi untuk User](contents/membuat_registrasi_untuk_user.md)
 
 
