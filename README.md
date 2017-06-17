@@ -32,5 +32,6 @@ Beberapa kode dan pengaturan di dalam catatan ini sedikit saya ubah untuk menyes
 10.  [Menambahkan Social Authentication](contents/menambahkan_social_authentication.md)
 11.  [Social Authentication dengan Facebook](contents/social_authentication_dengan_facebook.md)
 12.  [Social Authentication dengan Twitter](contents/social_authentication_dengan_twitter.md)
+13.  [Social Authentication dengan Google](contents/social_authentication_dengan_google.md)
 
 
