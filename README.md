@@ -13,6 +13,12 @@ Beberapa kode dan pengaturan sedikit saya ubah untuk menyesuiakan environment sa
 >   Saya hanya bisa belajar, membangun sesuatu dan berbagi. 
 >   Catatlah ilmu dengan menuliskannya.
 
+**Kode Catatan (nama repo)**
+
+```
+ctn_062017_
+```
+
 **Nomer Revisi**
 
 belum ada revisi
@@ -23,7 +29,7 @@ belum ada revisi
 
 **Daftar Catatan**
 
-1.  [Persiapan Awal](./contents/Persiapan Awal.md)
-2.  [Membuat View untuk Login Sederhana](./contents/Membuat View untuk Login Sederhana.md)
+1.  [Persiapan Awal]('./contents/Persiapan Awal.md')
+2.  [Membuat View untuk Login Sederhana](''./contents/Membuat View untuk Login Sederhana.md')
 
 
