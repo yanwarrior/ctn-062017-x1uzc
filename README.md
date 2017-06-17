@@ -35,5 +35,6 @@ belum ada revisi
 4.  [Membuat View untuk Mengubah Password](contents/membuat_view_untuk_mengubah_password.md)
 5.  [Membuat View untuk Mereset Password](contents/membuat_view_untuk_mereset_password.md)
 6.  [Membuat Registrasi untuk User](contents/membuat_registrasi_untuk_user.md)
+7.  [Mengextends Model User](contents/mengextend_model_user.md)
 
 
