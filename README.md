@@ -29,7 +29,7 @@ belum ada revisi
 
 **Daftar Catatan**
 
-1.  [Persiapan Awal]('./contents/Persiapan Awal.md')
-2.  [Membuat View untuk Login Sederhana](''./contents/Membuat View untuk Login Sederhana.md')
+1.  [Persiapan Awal](contents/Persiapan Awal.md)
+2.  [Membuat View untuk Login Sederhana](contents/Membuat View untuk Login Sederhana.md)
 
 
