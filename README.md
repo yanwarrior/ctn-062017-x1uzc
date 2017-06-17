@@ -29,5 +29,6 @@ belum ada revisi
 5.  [Membuat View untuk Mereset Password](contents/membuat_view_untuk_mereset_password.md)
 6.  [Membuat Registrasi untuk User](contents/membuat_registrasi_untuk_user.md)
 7.  [Mengextends Model User](contents/mengextend_model_user.md)
+8.  [Menggunakan Messages Flash Django](contents/menggunakan_messages_flash_django.md)
 
 
