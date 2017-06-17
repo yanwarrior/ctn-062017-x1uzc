@@ -31,5 +31,6 @@ belum ada revisi
 
 1.  [Persiapan Awal](contents/persiapan_awal.md)
 2.  [Membuat View untuk Login](contents/membuat_view_untuk_login.md)
+3.  [Membuat View untuk Login dan Logout](contents\membuat_view_untuk_login_dan_logout.md)
 
 

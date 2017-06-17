@@ -71,10 +71,10 @@ Buat struktur file dan folder berikut di dalam folder `account`:
 
 ```
 account/
-	templates/
-		account/
-			login.html
-		base.html
+    templates/
+    	account/
+    		login.html
+    	base.html
 ```
 
 Edit file `account/templates/base.html` dan tambahkan kode berikut ke dalamnya:
@@ -101,10 +101,13 @@ Edit file `account/templates/base.html` dan tambahkan kode berikut ke dalamnya:
 
 Buat struktur file dan folder berikut di dalam folder `account`:
 
-	account/
-		static/
-			css/
-				base.css
+```
+account/
+	static/
+		css/
+			base.css
+```
+
 Ketik kode berikut ke dalam file `account/static/css/base.css`:
 
 ```css
